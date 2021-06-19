@@ -43,5 +43,9 @@ ul {
 
 #negativityeffect {
     font-style: italic;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
