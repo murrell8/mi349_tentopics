@@ -32,6 +32,8 @@ p {
 .essay {
     text-align: left;
     line-height: 150%;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 ul {
@@ -45,8 +47,8 @@ ul {
     font-style: italic;
     margin-top: 50px;
     margin-bottom: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
     text-align: center;
 }
 
