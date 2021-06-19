@@ -33,3 +33,9 @@ p {
     text-align: left;
     line-height: 150%;
 }
+
+ul {
+    text-align: center;
+    font-size: 1.5em;
+    list-style: circle;
+}
