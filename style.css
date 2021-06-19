@@ -26,8 +26,10 @@ h1 {
 
 p {
     font-weight: 100;
+    font-size:1.5em;
 }
 
 .essay {
     text-align: left;
+    line-height: 50%;
 }
