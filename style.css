@@ -27,3 +27,7 @@ h1 {
 p {
     font-weight: 100;
 }
+
+.essay {
+    text-align: left;
+}
